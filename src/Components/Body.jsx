@@ -7,7 +7,7 @@ export const Body = () => {
                 <div>Hi, my name is</div>
                 <Box sx={{ fontSize: 36, marginBottom: 1 }}>Dagen Severson.</Box>
                 <Box sx={{ fontStyle: 'italic', fontFamily: 'Libre Baskerville', fontSize: 24 }}>
-                    I am a Jr. Full-Stack Web Developer living in Salt Lake City, UT. I have a passion for making polished & dynamic applications.
+                    I am a Software Developer living in American Fork, UT. I have a passion for making polished & dynamic applications.
                 </Box>
             </div>
         </div>
