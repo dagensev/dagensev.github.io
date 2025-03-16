@@ -6,8 +6,9 @@ export const AboutMe = () => {
             <div style={{ maxWidth: '45rem' }}>
                 <Box sx={{ fontSize: 30, marginBottom: 1 }}>About Me</Box>
                 <div style={{ fontSize: 20 }}>
-                    I am a Software Developer with experience in front-end, back-end, and database development. I work daily with JavaScript, React.js, MongoDB,
-                    MySQL, & Redis. I also love rock climbing, camping, and disc golf!
+                    Motivated and detail-oriented Software Developer with project experience in developing fulfillment software using APIs including
+                    ShipStation, FedEx, and eBay. Skilled in front-end, back-end, and database development, including expertise in JavaScript, HTML/CSS, and
+                    frameworks like React and Node.js. I also love rock climbing, camping, and disc golf!
                 </div>
             </div>
         </div>
